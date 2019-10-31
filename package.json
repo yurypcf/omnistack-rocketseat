@@ -14,7 +14,7 @@
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
-    "mongoose": "^5.5.15",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1"
   }
 }
